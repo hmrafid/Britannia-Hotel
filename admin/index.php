@@ -81,6 +81,6 @@ require('inc/db_config.php');
             
         }
     ?>
-    <?php require('inc/script.php') ?>
+    <?php require('inc/scripts.php') ?>
   </body>
 </html>

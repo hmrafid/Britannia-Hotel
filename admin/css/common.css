@@ -40,4 +40,5 @@ input[type="number"] {
 #dashboard-menu {
   position: fixed;
   height: 200%;
+  z-index: 11;
 }
